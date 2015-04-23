@@ -1,4 +1,4 @@
- about_symbols 
+ about_regular_expressions
 
 = Neo Ruby Koans
 
