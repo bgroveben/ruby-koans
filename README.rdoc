@@ -1,4 +1,4 @@
- about_strings.rb:75 
+ about_symbols 
 
 = Neo Ruby Koans
 
